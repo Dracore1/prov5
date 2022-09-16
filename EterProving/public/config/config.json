@@ -1,0 +1,19 @@
+{
+   
+  "CONTRACT_ADDRESS": "0x4a1633EA650383C45EBebEa918A544e6C5bB2b5d",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x4a1633ea650383c45ebebea918a544e6c5bb2b5d",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETHR",
+    "ID": 4
+  },
+  "NFT_NAME": "EterProving",
+  "SYMBOL": "ETCHprov",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK":"https://testnets.opensea.io/collection/etercharlie",
+    "SHOW_BACKGROUND": true
+}
